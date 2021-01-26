@@ -17,8 +17,6 @@
         "vscjava.vscode-maven",
         "vscjava.vscode-java-dependency",
         "VisualStudioExptTeam.vscodeintellicode",
-        "YouMayCallMeV.vscode-java-saber",
-        "dgileadi.java-decompiler",
         "GabrielBB.vscode-lombok",
         "sohibe.java-generate-setters-getters",
         "niko.vsc-mybatis",
@@ -27,6 +25,13 @@
         "Pivotal.vscode-spring-boot",
         "vscjava.vscode-spring-initializr",
         "vscjava.vscode-spring-boot-dashboard",
+        "adashen.vscode-tomcat",
+        "SummerSun.vscode-jetty",
+        "redhat.vscode-community-server-connector",
+        "redhat.vscode-server-connector",
+        "MicroProfile-Community.vscode-microprofile-pack",
+        "shengchen.vscode-checkstyle",
+        "SonarSource.sonarlint-vscode",
         "Rectcircle.vscode-p3c"
     ]
 }
